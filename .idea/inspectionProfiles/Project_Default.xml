@@ -14,7 +14,7 @@
     <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="ignoredPackages">
         <value>
-          <list size="31">
+          <list size="32">
             <item index="0" class="java.lang.String" itemvalue="dj-database-url" />
             <item index="1" class="java.lang.String" itemvalue="django-heroku" />
             <item index="2" class="java.lang.String" itemvalue="django-djconfig" />
@@ -46,6 +46,7 @@
             <item index="28" class="java.lang.String" itemvalue="watchdog" />
             <item index="29" class="java.lang.String" itemvalue="maturin" />
             <item index="30" class="java.lang.String" itemvalue="multiprocess" />
+            <item index="31" class="java.lang.String" itemvalue="psycopg2-binary" />
           </list>
         </value>
       </option>
@@ -57,5 +58,6 @@
         </list>
       </option>
     </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   </profile>
 </component>
